@@ -1,4 +1,6 @@
-## Site with instructions for setting up Jupyter on EC2: https://dataschool.com/data-modeling-101/running-jupyter-notebook-on-an-ec2-server/
+## Site with instructions for setting up Jupyter on EC2
+
+https://dataschool.com/data-modeling-101/running-jupyter-notebook-on-an-ec2-server/
 
 ## code added to jupyter config
 
@@ -18,3 +20,6 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/RootDeviceStorage.html
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ComponentsAMIs.html#storage-for-the-root-device
 
+## Link to blog post with a sample project
+
+https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
